@@ -11,3 +11,7 @@ This repository contains a collection of my data science projects.
    - **Description:** The project predicts the quality score of white Vinho Verde wine
    - **Technologies Used:** The notebook uses Multiple Polynomial Regression, Decision Tree Regression, and Random Forest Regression
    - **Results:** The polynomial regression, decision tree, and random forest had MSE of 0.595, 0.546, and 0.356 respectively
+3. Ad Click Prediction
+   - **Description:** The project predicts whether a user clicks on an online ad
+   - **Technologies Used:** The notebook uses Logistic Regression, Decision Tree Classification, and Random Forest Classification
+   - **Results:** The logistic regression, decision tree, and random forest had an F1 Score of 78.8%, 93.0%, and 94.0% respectively
