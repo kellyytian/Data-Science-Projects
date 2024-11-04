@@ -10,7 +10,7 @@ This repository contains a collection of my data science projects.
 2. [White Wine Quality Prediction](https://github.com/kellyytian/Data-Science-Projects/tree/main/White%20Wine%20Quality%20Prediction)
    - **Description:** The project predicts the quality score of white Vinho Verde wine
    - **Technologies Used:** The notebook uses Multiple Polynomial Regression, Decision Tree Regression, and Random Forest Regression
-   - **Results:** The polynomial regression, decision tree, and random forest had MSE of 0.595, 0.546, and 0.356 respectively
+   - **Results:** The polynomial regression, decision tree, and random forest had RMSE of 0.771, 0.739, and 0.597 respectively
 3. [Ad Click Prediction](https://github.com/kellyytian/Data-Science-Projects/blob/main/Ad%20Click%20Prediction)
    - **Description:** The project predicts whether a user clicks on an online ad
    - **Technologies Used:** The notebook uses Logistic Regression, Decision Tree Classification, and Random Forest Classification
