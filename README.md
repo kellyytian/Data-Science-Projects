@@ -15,3 +15,7 @@ This repository contains a collection of my data science projects.
    - **Description:** The project predicts whether a user clicks on an online ad
    - **Technologies Used:** The notebook uses Logistic Regression, Decision Tree Classification, and Random Forest Classification
    - **Results:** The logistic regression, decision tree, and random forest had an F1 Score of 78.8%, 93.0%, and 94.0% respectively
+4. [Depression in Professionals Prediction](https://github.com/kellyytian/Data-Science-Projects/tree/main/Depression%20in%20Professionals%20Prediction)
+   - **Description:** The project predicts whether an adult is diagnosed with depression
+   - **Technologies Used:** The notebook uses Logistic Regression, Decision Tree Classification, and Random Forest Classification
+   - **Results:** The logistic regression had an accuracy of 98.5%, precision of 94.8%, recall of 90.2%, F1 of 92.4%, and ROC AUC of 94.8%.
